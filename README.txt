@@ -1,0 +1,4 @@
+.This code works to protect you by converting any name or password into a type of encryption so that you can store this information on your device in a way that is not understood by others
+.I have provided you with a code with an interface that you can use without opening it in S Code. Just convert the file to exe format and the program will work completely. In any case, I will provide the file in exe format
+عمل هذا الكود حمايتك من خلال تحويل اي اسم او كلمة مرور الى نوع من انواع التشفير لكي تسطيع تخزين هذه المعلومات على جهازك بشكل غير مفهوم للغير.
+وقد وضعت لكم كود بواجهة يمكنك استخدامها بدون ان تقوم بفتح في اس كود فقط قم بتحويل الملف الى شكل exe وسيعمل البرنامج بشكل كامل وعلى كل انا سوف اضع الملف بشكل exe.
